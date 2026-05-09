@@ -86,7 +86,7 @@ Strong in **Java, backend logic, and modern AI orchestration**, with a focus on 
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Samraatsharma&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Samraatsharma&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </div>
 <br>
 <div align="center">
