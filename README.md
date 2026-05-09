@@ -21,7 +21,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30"> About Me
+## 👨‍💻 About Me
 
 ```java
 public class SamraatSharma {
@@ -44,7 +44,7 @@ public class SamraatSharma {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -70,7 +70,7 @@ public class SamraatSharma {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37c7-4f61-b40d-529e4476a451.gif" width="30"> Featured AI Projects
+## 🚀 Featured AI Projects
 
 <table>
 <tr>
@@ -128,7 +128,7 @@ public class SamraatSharma {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="30"> Professional Experience
+## 💼 Professional Experience
 
 | Role | Company | Period |
 |:-----|:--------|:-------|
@@ -138,7 +138,7 @@ public class SamraatSharma {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c328-4571-a8e5-0ff5894e23ad.png" width="30"> GitHub Activity
+## 📈 GitHub Activity
 
 <div align="center">
 
